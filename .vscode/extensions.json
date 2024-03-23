@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "codespaces-contrib.codeswing",
+    "esbenp.prettier-vscode",
+    "ms-dotnettools.dotnet-interactive-vscode"
+  ]
+}
